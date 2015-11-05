@@ -1,0 +1,2 @@
+UTILISATION DE SECTION
+<section> est utilisé pour indiquer une section
