@@ -1,0 +1,6 @@
+HTML HEADINGS
+<h1> <h2> <h3> . . . <h6> are used for headings
+Navigateurs affichent <h1> plus grand que <h2>
+<h2> bigger than <h3>, and so on
+Souvent, les gens «trichent» en utilisant ces éléments
+pour générer facilement et rapidement du texte de taille différente
