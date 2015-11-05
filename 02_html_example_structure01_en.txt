@@ -4,3 +4,9 @@ Browsers show <h1> bigger than <h2>
 <h2> bigger than <h3>, and so on
 People often 'cheat' by using these elements
 to easily generate different size text
+
+LOOKS BORING?
+The elements are shown using the default browser style
+We can apply a different style to make things look better
+Let's apply the style used by this presentation
+Later we will look at style in depth
