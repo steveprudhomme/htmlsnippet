@@ -1,0 +1,3 @@
+A SIMPLE LIST USING BULLETS
+Now let's consider HTML lists
+<ul> means unordered list, <li> means list item

@@ -1,0 +1,3 @@
+Une simple liste qui utilise les pastilles.
+Maintenant, nous allons examiner des listes HTML
+<ul> signifie liste non ordonnée, <li> signifie un élément de liste
